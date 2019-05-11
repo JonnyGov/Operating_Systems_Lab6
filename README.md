@@ -1,6 +1,8 @@
 # Operating_Systems_Lab6
 testing centos 7 time slice for threads
+
 		IF THE EXISTENS OF THIS FILE POSSES PROBLOMES PLEASE CONTACT ME AND I WILL REMOVE IT
+		
 		מעבדה 6 - תזמון תהליכים -  תרגיל 
 
 תרגיל 1:
